@@ -8,3 +8,13 @@ overhaul with the Orbit TUFX Profile it runs between 2 and 60 frames per second
 
 for the best render i recommend Blackrack's Volumetric Clouds, you can buy it here https://www.patreon.com/posts/true-volumetric-139879553 if you want the best, the V5 bit you can take the old V3, it's free.
 
+Download instruction:
+Download Ckan If not already 
+Open Ckan
+Go to "files"
+Clique "import from .ckan"
+Wait. 
+Wait..
+Wait...
+Buy Blackrack's True Volumetric Clouds V5 (or get the free V3)
+And if you want volumetric Clouds for Kcalbeloh there's a config hidden somewhere in the ass of Internet, search for what you prefer
