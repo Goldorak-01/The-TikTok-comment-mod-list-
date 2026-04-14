@@ -12,11 +12,15 @@ Download instruction:
 
 *Download Ckan If not already* 
 
+download one of the 2 files
+
 Open Ckan
 
 Go to "files"
 
 Clique "import from .ckan"
+
+choose the one you wanted
 
 Wait. 
 
