@@ -12,7 +12,7 @@ Download instruction:
 
 *Download Ckan If not already* 
 
-download one of the 2 files
+download one of the files
 
 Open Ckan
 
