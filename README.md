@@ -40,6 +40,8 @@ Pioneer-10 going to Sarnus!
 ![WhatsApp Image 2026-04-13 at 20 39 51](https://github.com/user-attachments/assets/db3d3e9e-1cc1-46a5-bacc-317c7f44cfe8)
 ![WhatsApp Image 2026-04-13 at 20 47 13](https://github.com/user-attachments/assets/16ddb4b6-8a22-4d6d-b2bb-f0703f6cfc05)
 ![WhatsApp Image 2026-04-13 at 21 42 44](https://github.com/user-attachments/assets/10b3a3e3-7034-4151-b0d9-4125b61f8a98)
+<img width="1600" height="900" alt="WhatsApp Image 2026-04-14 at 11 00 18" src="https://github.com/user-attachments/assets/a3c56c97-7b9e-4531-bc62-e324c686706a" />
+
 
 
 Pioneer-3 and orbit
@@ -50,6 +52,8 @@ Pioneer-3 and orbit
 
 duna
 ![WhatsApp Image 2026-04-14 at 09 56 25](https://github.com/user-attachments/assets/af7464ba-d07e-4060-8a2c-12d8262fc846)
+<img width="1600" height="900" alt="WhatsApp Image 2026-04-22 at 18 27 21" src="https://github.com/user-attachments/assets/094dec23-58bc-40dc-8965-0e9dd7f23889" />
+
 
 
 kerbin from orion
@@ -58,6 +62,10 @@ kerbin from orion
 
 even inside! 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/99653ec6-aaf3-41b9-b2aa-0f4566b1cc27" />
+
+vab: 
+<img width="846" height="1022" alt="WhatsApp Image 2026-04-22 at 19 27 44" src="https://github.com/user-attachments/assets/58b92c8f-5379-4c5e-9919-fa4efdc15934" />
+
 
 
 
