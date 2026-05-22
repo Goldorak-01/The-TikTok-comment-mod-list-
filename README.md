@@ -1,10 +1,11 @@
-# The-TikTok-comment-mod-list
-Hi, uh, we both know why your here: the mod list of this comment https://vm.tiktok.com/ZN9LyQkrACCYL-JhTxB/
+# My Mods
+it's the modpack you'll see in basically every images I'll post (mostly on TikTok comments or reddit)
 
-just so you know, it's about 200 mods long, **it takes about 20 gigs (not counting volumetric Clouds) and you'll need atleast 24Go of ram**
+just so you know, it's about 230 mods long, **it takes about 20 gigs (not counting volumetric Clouds) and you'll need atleast 24Go of ram**
 it run on my computer which is a 2018 laptop with a 1050Ti an I7 8750H 32go of ram and a 1to NVMe gen 3
 
 overhaul with the Orbit TUFX Profile it runs between 2 and 60 frames per second
+I also recommend Adiri's blue as a TUFX Profile
 
 for the best render i recommend Blackrack's Volumetric Clouds, you can buy it here https://www.patreon.com/posts/true-volumetric-139879553 if you want the best, the V5 bit you can take the old V3, it's free.
 
